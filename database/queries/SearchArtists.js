@@ -50,7 +50,5 @@ const buildQuery = (criteria) => {
     };
   }
 
-  console.log(query);
-
   return query;
 };
